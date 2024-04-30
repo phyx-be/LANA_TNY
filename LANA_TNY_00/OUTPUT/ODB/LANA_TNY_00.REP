@@ -1,0 +1,174 @@
+*************************************************************
+FileName = LANA_TNY_00.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\dielectric1\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\dielectric1\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\mechanical_27\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\mechanical_27\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\3d_symbols\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\3d_symbols\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\frame\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\frame\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_designator\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_designator\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\placebound_bottom\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\placebound_bottom\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\assembly_bottom\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\assembly_bottom\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comments\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comments\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_designator\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_designator\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comments_2\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comments_2\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\fabrication\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\fabrication\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\placebound_top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\placebound_top\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\outline\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\outline\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_180_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_90_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect28.937x35.4331_180_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect28.937x35.4331_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect53.937x62.9921_90_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect53.937x62.9921_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_180_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_90_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_180_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect25x31.4961_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_90_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect50x59.0551_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect28.937x35.4331_180_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect53.937x62.9921_90_offset25x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect28.937x35.4331_offset12.5x0\features
+
+Generated File : C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_00\.\OUTPUT\ODB\odb\symbols\uds_rect53.937x62.9921_offset25x0\features
+

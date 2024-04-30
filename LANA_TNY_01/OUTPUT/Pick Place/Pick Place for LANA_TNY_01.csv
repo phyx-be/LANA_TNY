@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Wim\SynologyDrive\Drive\Electronics\LANA_TNY_01\.\OUTPUT\Pick Place\Pick Place for LANA_TNY_01.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/11/23
+Time:       20:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","Supplier 1","Supplier 2","Supplier 3","Supplier Part Number 1","Supplier Part Number 2","Supplier Part Number 3","Value"
+"TP12","TEST_PAD","TopLayer","TP_1.2mm_0.6mm","450.000","311.811","0","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP11","TEST_PAD","TopLayer","TP_0.4mm","700.000","250.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP10","TEST_PAD","TopLayer","TP_0.4mm","700.000","150.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP8","TEST_PAD","TopLayer","TP_0.4mm","0.000","750.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP9","TEST_PAD","TopLayer","TP_0.4mm","0.000","650.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"R5","RESISTOR","TopLayer","R0402","586.614","618.110","270","","LCSC","","Generic","C274895","","5K1 1% 0402","5K1"
+"R4","RESISTOR","TopLayer","R0402","547.244","618.110","270","","LCSC","","Generic","C274895","","5K1 1% 0402","5K1"
+"P3","Header 1.0mm Shrouded 4","TopLayer","WE_665304124022","189.469","657.480","270","","Wurth","Mouser","","665304124022","710-665304124022","","665304124022"
+"TP7","TEST_PAD","TopLayer","TP_0.4mm","0.000","450.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP6","TEST_PAD","TopLayer","TP_0.4mm","700.000","350.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP5","TEST_PAD","TopLayer","TP_0.4mm","700.000","450.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP4","TEST_PAD","TopLayer","TP_0.4mm","700.000","550.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP3","TEST_PAD","TopLayer","TP_0.4mm","700.000","650.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP2","TEST_PAD","TopLayer","TP_0.4mm","0.000","550.000","90","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"TP1","TEST_PAD","TopLayer","TP_0.4mm","350.000","800.000","0","","XXX","","","FOOTPRINT ONLY","","","NO BOM"
+"P5","Header 2","TopLayer","HDR1X2","550.000","350.000","270","","LCSC","LCSC","","C492401","C541856","",""
+"R3","RESISTOR","TopLayer","R0402","505.000","688.976","180","","LCSC","","Generic","C274895","","5K1 1% 0402","5K1"
+"C7","CAP_CERAMIC","TopLayer","C0402","350.394","618.110","180","Capacitor Ceramic","Farnell","","Generic","1758896","","100nF 16V 0402 X7R","100nF 16V"
+"SW2","TS24CA RA Tactile Switch 12V 50mA","TopLayer","SHOU_HAN_TS24CA","504.997","729.488","0","","LCSC","","","C393942","","","TS24CA"
+"R2","RESISTOR","TopLayer","R0402","570.000","118.189","90","","LCSC","","Generic","C274895","","5K1 1% 0402","5K1"
+"R1","RESISTOR","TopLayer","R0402","130.000","118.189","90","","LCSC","","Generic","C274895","","5K1 1% 0402","5K1"
+"U2","3V3 LDO 300mA 150mV","TopLayer","SOT23-5","180.000","392.756","0","=Designator","LCSC","","","C110427","","","RT9078-33GJ5"
+"C4","CAP_CERAMIC","TopLayer","C0402","214.000","474.882","180","Capacitor Ceramic","LCSC","","Generic","C380293","","1uF 10V 0402 X5R","1uF 10V"
+"C3","CAP_CERAMIC","TopLayer","C0402","134.000","474.882","0","Capacitor Ceramic","LCSC","","Generic","C380293","","1uF 10V 0402 X5R","1uF 10V"
+"C2","CAP_CERAMIC","TopLayer","C0402","486.000","645.000","0","Capacitor Ceramic","Farnell","","Generic","1758896","","100nF 16V 0402 X7R","100nF 16V"
+"C1","CAP_CERAMIC","TopLayer","C0402","326.378","340.567","180","Capacitor Ceramic","Farnell","","Generic","1758896","","100nF 16V 0402 X7R","100nF 16V"
+"D2","CUS10S30 Schottky Power Rectifier, 1A, 30V","TopLayer","SOD-323_AC","157.126","289.567","180","=Description","LCSC","","","C146335","","","CUS10S30,H3F"
+"D1","WS2812 based digital RGB LED 1010 package","TopLayer","LED_1010_WS2812B","350.000","683.378","0","=Description","LCSC","","","C5349953","","","XL-1010RGBC-WS2812B"
+"U1","WCH CH32V203G8U6 QFN28 RISC-V 32-bit MCU, 64KB Flash, 20KB RAM, USB, CAN","TopLayer","QFN_28_4.0x4.0_P0.4","400.000","460.630","270","","LCSC","","","C5187530","","","CH32V203G8U6"
+"P2","Header 7","BottomLayer","HDR1X7","650.000","400.000","90","","","","","","","",""
+"P1","Header 7","BottomLayer","HDR1X7","50.000","400.000","90","","","","","","","",""
+"J1","USB 2.0 C Reversible Receptacle Horizontal full SMD","TopLayer","XUNPU-TYPEC-304S-ACP16","350.000","138.189","0","","LCSC","","","C720630","","","TYPEC-304S-ACP16"
