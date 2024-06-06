@@ -7,3 +7,8 @@ TNY is our take on the [Adafruit QT Py](https://www.adafruit.com/category/595) a
 
 ## Pinout
 ![LANA TNY 01 pinout](media/pinout.png)
+
+## LANA REV 01
+![LANA TNY 01 LED](media/LANA_01_DEFAULT.gif)
+
+![LANA TNY 01](media/LANA_01.png)
