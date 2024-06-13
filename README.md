@@ -2,6 +2,9 @@
 ## LANA
 LANA is a small development board based around the [WCH CH32V203](https://www.wch-ic.com/products/CH32V203.html) RISC-V microcontroller.
 
+## Where can I get one?
+Currently the only place to get your hands on the LANA_TNY is [in our Lectronz store](https://lectronz.com/products/lana-tny).
+
 ## Programming
 
 ### Writing code
