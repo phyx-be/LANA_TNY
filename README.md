@@ -9,12 +9,12 @@ Currently the only place to get your hands on the LANA_TNY is [in our Lectronz s
 
 ### Writing code
 Various options are available.
+- [Embeetle](https://embeetle.com/)
+	- [Officially supported by Embeetle](https://embeetle.com/#supported-hardware/wch/boards/lana-tny-01)
 - [Arduino core](https://github.com/openwch/arduino_core_ch32)
 	- SPI and I²C Master support since version 1.0.2
 - [Platform.io](https://github.com/Community-PIO-CH32V/platform-ch32v)
 	- Requires your WCH-Link firmware to be updated to the latest version
-- [Embeetle](https://embeetle.com/)
-	- Documentation only mentions the [48 pin variant](https://embeetle.com/#supported-hardware/wch/microcontrollers/ch32v203c8t6) at this moment.
 - [CH32V003fun](https://github.com/cnlohr/ch32v003fun)
 	- Experimental support for the CH32V203 at the time of writing
 - [MounRiver Studio](https://www.mounriver.com/)
