@@ -19,6 +19,8 @@ Various options are available.
 	- Experimental support for the CH32V203 at the time of writing
 - [MounRiver Studio](https://www.mounriver.com/)
 	- The official IDE supported by WCH, based on Eclipse.
+- [WCH Toolchain for Mac](https://github.com/robinjanssens/WCH-Toolchain)
+	- This toolchain has official support for LANA
 
 ### Loading code
 The CH32V203 has an USB Bootloader which can be activated by holding down the button when plugging in the USB cable. Alternatively you could opt to use a [WCH-Link programmer and debugger](https://www.wch.cn/products/WCH-Link.html) to connect to the exposed SWD pins.
